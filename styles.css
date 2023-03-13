@@ -11,6 +11,11 @@
     border-radius: 18px;
 }
 
+a:link {
+    color: black;
+    decoloración none
+}
+
 #tit{
     text-align: center;
     font-family: cursive;
